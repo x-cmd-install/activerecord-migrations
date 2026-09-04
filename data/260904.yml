@@ -7,7 +7,7 @@ about:
   head: 5b74e05
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T20:00:07Z
+  collectedAt: 2026-09-04T20:40:18Z
 timeline:
   created: 2016-12-08
   lastCommit: 2020-06-07
@@ -80,5 +80,33 @@ total:
   openIssue: 0
   commit: 40
 ---
+path: /home/runner/.x-repo/github.com/ioquatix/activerecord-migrations
+collectedAt: 2026-09-04T20:40:19Z
+loc:
+  Ruby:
+    code: 261
+    comments: 215
+    blanks: 82
+    files: 15
+  Rakefile:
+    code: 14
+    comments: 4
+    blanks: 4
+    files: 1
+  Yaml:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 49
+    blanks: 28
+    files: 1
+total:
+  code: 297
+  comments: 273
+  blanks: 116
+  files: 19
 ---
 
